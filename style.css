@@ -1,0 +1,40 @@
+.navbar-brand{
+    font-size: large;
+    padding-left: 20px;
+}
+
+.topmain p{
+    background-color: black;
+    display: flex;
+    color: white;
+    margin-bottom: 0%;
+    align-items: center;
+    padding-bottom: 0%;
+ 
+}
+
+.container1{
+    background-image: url("/assets/images/hero.png");
+    padding-bottom: 700px;
+    background-repeat: no-repeat;
+  background-size: cover;
+  
+
+}
+/* .mainmenu{
+    display: flex;
+    color: white;
+    display: inline;
+} */
+
+.nav{
+   
+   
+    
+  
+}
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
